@@ -48,7 +48,7 @@ Run the application locally or visit the live demo below.
 
 
 
-Live Website: Add your deployed website URL here after deployment.
+Live Website: https://nikhil-st.github.io/Currency-Converter/
 
 
 
